@@ -1,4 +1,4 @@
-# pigpioinstall 01/07/2018
+# pigpioinstall
 Installation for pigpio
 
 This is used to automate the installation of pigpio and from http://abyz.me.uk/rpi/pigpio/piscope.html. 
