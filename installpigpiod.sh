@@ -6,3 +6,4 @@ unzip pigpio.zip
 cd PIGPIO
 make
 sudo make install
+
